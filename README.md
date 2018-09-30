@@ -11,3 +11,8 @@ The site (including images) has a total size of a mere 6mb and features beautifu
 
 1. Download or clone the repository.
 2. Double click or drag the index.html file into your browser of choice.
+
+### Contribution
+
+All contributions are welcome!
+
