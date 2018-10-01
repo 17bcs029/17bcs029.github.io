@@ -9,8 +9,11 @@ The site (including images) has a total size of a mere 6mb and features beautifu
 
 ### How to run 
 
-1. Download or clone the repository.
-2. Double click or drag the index.html file into your browser of choice.
+1. Download or clone the repository with following command
+```
+git clone https://github.com/17bcs029/Keshav_blog.git
+```
+2. Double click or drag the `index.html` file into your browser of choice.
 
 ### Contribution
 
