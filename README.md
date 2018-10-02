@@ -15,8 +15,9 @@ The site (including images) has a total size of a mere 6mb and features beautifu
 ### Contribution
 
 All contributions are welcome!
+Remember to click on fork and then clone/download before submit a pull request (PR)
 
 ### Motivate your self to contribute
 
-I have a personal philosophy in life: If somebody else can do something that I'm doing, they should do it. And what I want to do is find things that would represent a unique contribution to the world - the contribution that only I, and my portfolio of talents, can make happen. Those are my priorities in life.
+I have a personal philosophy in life: If somebody else can do something what I'm doing, they should do it. And what I want to do is find things that would represent a unique contribution to the world - the contribution that I and my portfolio of talents, can make happen. Those are my priorities in life.
 
