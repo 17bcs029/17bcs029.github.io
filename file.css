@@ -50,7 +50,9 @@ background-repeat:initial;
 margin:0;
 height:800px;
 }
-
+ #home h1{
+     color:white;
+ }
 /*contact*/
 #contact{
     background-image:url(Images/download.jpg);
